@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **olivergarciadp@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-h9k8.vercel.app/resume](https://portfolio-h9k8.vercel.app/resume)
+- 📄 Know about my experiences [https://portfolio-h9k8.vercel.app/resume.pdf](https://portfolio-h9k8.vercel.app/resume.pdf)
 
 - ⚡ Fun fact **I am a passionated gamer**
 
